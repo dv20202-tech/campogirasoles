@@ -1,0 +1,26 @@
+body {
+    background: rgba(231, 223, 11, 0) !important;
+}
+
+.mensaje {
+    position: fixed !important;
+    top: 100px !important;
+    left: 100px !important;
+    transform: none !important;
+
+    background: rgba(206, 232, 7, 0.041) !important;
+    color: yellow !important;
+
+    z-index: 9999 !important;
+}
+
+#botonMusica {
+    position: fixed !important;
+    top: 100px !important;
+    left: 100px !important;
+
+    background: rgba(232, 253, 3, 0.146) !important;
+    color: rgb(29, 28, 28) !important;
+
+    z-index: 9999 !important;
+}
